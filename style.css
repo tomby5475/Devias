@@ -1,0 +1,96 @@
+
+body {
+	font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+.image {
+	position: relative;
+	min-width: 100%;
+}
+.photo {
+	position: absolute;
+	top: 455px;
+	left: 42px;
+	font-size: 24px;
+	color: white;
+	width: 500px;
+	line-height: normal;
+}
+.name {
+	position: absolute;
+  top: 560px;
+	left: 42px;
+	color: white;
+	font-size: 14px;
+}
+
+h5 {
+	font-size: 12px;
+	background-color: white;
+	width: 73px;
+	position: relative;
+	top: 15px;
+	left: 10px;
+	padding-left: 7px;
+	letter-spacing: 0.4px;
+}
+p {
+	color: #9ea0a5;
+	font-size: 14px;
+}
+.col-lg-4 {
+	margin-top: 42px;
+}
+
+
+.form-control {
+	width: 360px;
+	height: 50px;
+	margin-bottom: 26px;
+}
+
+.btn1 {
+	font-size: 14px;
+	margin-top: 15px;
+	box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 2px 1px -1px rgba(0, 0, 0, 0.12), 0 1px 1px 0 rgba(0, 0, 0, 0.14);
+  width: 360px;
+	height: 40px;
+	margin-bottom: 16px;
+	letter-spacing: 1.3px;
+}
+h1 {
+	font-size: 24px;
+	padding-top: 42px;
+}
+.index-form {
+	margin-top: 32px;
+}
+.button {
+	color: white;
+}
+.form-check-label {
+	font-size: 14px;
+	color: #9ea0a5;
+}
+.terms {
+	text-decoration: underline;
+	color: #56575a;
+}
+q {
+	position: absolute;
+	quotes: none;
+	font-size: 24px;
+	color: white;
+	bottom: 95px;
+	left: 42px;
+	right: 42px;
+}
+cite {
+	font-size: 14px;
+	color: white;
+	position: absolute;
+	bottom: 42px;
+	left:42px;
+	font-style: normal;
+	max-width: 130px;
+}

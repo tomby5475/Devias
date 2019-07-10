@@ -5,7 +5,6 @@ body {
 }
 .image {
 	position: relative;
-	min-width: 100%;
 }
 .photo {
 	position: absolute;
@@ -16,14 +15,11 @@ body {
 	width: 500px;
 	line-height: normal;
 }
-.name {
-	position: absolute;
-  top: 560px;
-	left: 42px;
-	color: white;
-	font-size: 14px;
+h2 {
+	margin-top: 42px;
+	color: #212529;
+	font-size: 24px;
 }
-
 h5 {
 	font-size: 12px;
 	background-color: white;
@@ -41,14 +37,14 @@ p {
 .col-lg-4 {
 	margin-top: 42px;
 }
-
-
-.form-control {
+.btn {
+	background: #1070ca;
+	font-size: 14px;
 	width: 360px;
-	height: 50px;
-	margin-bottom: 26px;
+	height: 40px;
+	letter-spacing: 1.3px;
+	color: white;
 }
-
 .btn1 {
 	font-size: 14px;
 	margin-top: 15px;
